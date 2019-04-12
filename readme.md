@@ -20,7 +20,7 @@ Windows UWP|16299+
 ## SETUP
 
 #### iOS
-Add the following to your 
+Add the following to your Info.plist
 ```xml
 <key>NSSpeechRecognitionUsageDescription</key>  
 <string>Say something useful here</string>  
@@ -114,4 +114,3 @@ A. Hell NO!  DI that sucker using the Instance
 * Confidence Scoring
 * Mac Support
 * Start and end of speech eventing
-* RMS detection
